@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: center;
+    background: navajowhite;
+}
+
+li {
+    list-style-type: none;
+    
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    
+}
+
+input::placeholder {
+    color: #ccc;
+}
